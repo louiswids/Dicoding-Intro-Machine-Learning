@@ -1,7 +1,5 @@
 # Dicoding Collection Dashboard ✨
 # Louis Widi Anandaputra
-```
-```
 ## Setup environment
 Gunakan requirements.txt
 ```
